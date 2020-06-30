@@ -1,0 +1,13 @@
+name: covrcalc
+title: covrcalc
+username:
+account: davidmateosfciencias
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2519764
+bundleId: 3332312
+url: https://davidalbertofciencias.shinyapps.io/covrcalc/
+when: 1593489548.93623
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: CODE_OF_CONDUCT.md|LICENSE.md|README.md|README.Rmd|data-raw/modelo.R|dev/01_start.R|dev/02_dev.R|dev/03_deploy.R|dev/run_dev.R
